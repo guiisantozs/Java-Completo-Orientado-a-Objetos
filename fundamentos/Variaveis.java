@@ -95,6 +95,17 @@ public class Variaveis {
         double pi = 3.141_592_123;
         System.out.println(pi);
 
+        // VAR
+
+         var z = 10;
+        System.out.println(z);
+
+        var nome1 = "Guilherme";
+        System.out.println(nome1);
+
+        var i = 2.0;
+        System.out.println(i);
+
+        // Identifica o tipo de váriavel automaticamente.
     }
-    
 }
