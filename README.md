@@ -1,10 +1,10 @@
-# ☕ Curso Completo de Java - Anotações e Projetos
+# Curso Completo de Java - Anotações e Projetos
 
 Este repositório reúne meus estudos, exercícios e projetos desenvolvidos ao longo de um curso completo de **Java**, indo do nível básico ao avançado.
 
 ---
 
-## 🚀 Sobre o Curso
+## Sobre o Curso
 
 Neste curso, estou aprendendo uma das linguagens mais utilizadas do mundo, passando desde os conceitos iniciais até tópicos mais avançados da linguagem.
 
@@ -12,9 +12,9 @@ Durante o aprendizado, desenvolvo exercícios práticos e projetos para reforça
 
 ---
 
-## 🧠 Conteúdos Abordados
+## Conteúdos Abordados
 
-### 📌 Fundamentos
+### Fundamentos
 
 - Variáveis e Tipos de Dados  
 - Estruturas Condicionais (`if`, `else`, `switch`)  
@@ -25,7 +25,7 @@ Durante o aprendizado, desenvolvo exercícios práticos e projetos para reforça
 
 ---
 
-### 🧩 Programação Orientada a Objetos (POO)
+### Programação Orientada a Objetos (POO)
 
 - Classes e Objetos  
 - Encapsulamento  
@@ -34,7 +34,7 @@ Durante o aprendizado, desenvolvo exercícios práticos e projetos para reforça
 
 ---
 
-### ⚙️ Tópicos Avançados
+### Tópicos Avançados
 
 - Tratamento de Erros (Exceptions)  
 - Manipulação de Arquivos  
@@ -46,26 +46,16 @@ Durante o aprendizado, desenvolvo exercícios práticos e projetos para reforça
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - Java  
 - Visual Studio Code  
-- GitHub Desktop  
+- GitHub Desktop
+- Git
 
 ---
 
-## 📂 Estrutura do Repositório
-
-📁 java-estudos/  
- ├── 📁 fundamentos/  
- ├── 📁 poo/  
- ├── 📁 exercicios/  
- ├── 📁 projetos/  
- └── 📁 avancado/  
-
----
-
-## 🎯 Objetivo
+## Objetivo
 
 - Aprender Java do zero ao avançado  
 - Evoluir como desenvolvedor  
@@ -74,18 +64,9 @@ Durante o aprendizado, desenvolvo exercícios práticos e projetos para reforça
 
 ---
 
-## 📈 Evolução
+## Evolução
 
 Este repositório será atualizado constantemente com novos códigos, exercícios e projetos conforme avanço no curso.
-
----
-
-## 🏆 Benefícios do Curso
-
-- Acesso vitalício  
-- Certificado de conclusão  
-- Suporte para dúvidas  
-- Atualizações constantes  
 
 ---
 
