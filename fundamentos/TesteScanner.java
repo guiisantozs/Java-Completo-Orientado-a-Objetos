@@ -32,19 +32,19 @@ public class TesteScanner {
         String primeiroNome = scanner.next();
         System.out.println("Seu primeiro nome é: " +primeiroNome);
 
-        // Fechar o scanner, para evitar o memory leak ( vazamento de memória. )
-        scanner.close();
-
         // Problema do nextline
 
         System.out.println("Digite um número:");
         int num = scanner.nextInt();
+
+        scanner.nextLine(); // Evitar bug do nextLine. Sempre que estiver um nextInt.
 
         System.out.println("Digite um texto:");
         String txt = scanner.nextLine();
 
         System.out.println("Os dados são, num = " + num + " e texto = " + txt);
 
+         // Fechar o scanner, para evitar o memory leak ( vazamento de memória. )
         scanner.close();
 
           }
