@@ -24,6 +24,29 @@ public class condicionais {
         System.out.println(x != 1);
 
 
+        // Atribuição e comparação:
+
+        int n = 5;
+        int m = 10;
+
+        System.out.println(n = 12);
+        System.out.println(n);
+
+        System.out.println(n );
+
+        // Comparação de strings
+
+        String str1 = "Java";
+        String str2 = new String("Java");
+
+        System.out.println(str1);
+        System.out.println(str2);
+
+        System.out.println(str1 == str2);
+        System.out.println(str1 == "Java");
+
+        System.out.println(str1.equals(str2));
+        
 
 
 
